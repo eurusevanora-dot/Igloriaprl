@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-media-downloader",
+  "version": "1.0.0",
+  "description": "Descarga fotos, PDFs y documentos Word de un grupo de WhatsApp a una carpeta local",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
